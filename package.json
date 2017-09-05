@@ -13,6 +13,10 @@
     "ejs": "^2.5.7",
     "express": "^4.15.4",
     "fetch": "^1.1.0",
-    "request": "^2.81.0"
+    "fs": "0.0.1-security",
+    "moment": "^2.18.1",
+    "node-fetch": "^1.7.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
   }
 }
