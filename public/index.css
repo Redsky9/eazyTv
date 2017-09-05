@@ -1,0 +1,19 @@
+.form-group{
+    padding-top: 100px;
+    /* margin-left: 300px; */
+}
+
+.search-btn{
+    margin-top: 10px;
+    margin-left: 47%;
+}
+
+.form-control{
+    /* text-align: center; */
+    margin: 0 auto;
+    width: 30%;
+}
+
+h1{
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "eazytv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "fetch": "^1.1.0",
+    "request": "^2.81.0"
+  }
+}
